@@ -63,3 +63,24 @@ console.log(firstName + 's'+ ' last name is ' + lastName );
  * Basic Operators
  * Lession 3
  */
+var now,yearJess, yearMark
+var now = 2019;
+//so we dont repeat the year in the variables belonging to people.
+ageJess = 31;
+ageMark = 33;
+
+//Math operators
+var yearJess = now - ageJess;
+var yearMark = now - ageMark;
+
+console.log('Jessica\'s birth year is ' + yearJess);
+
+console.log(now + 2);
+console.log(now * 2);
+console.log(now / 10);
+
+//Logical Operators 
+// If we want to compare the age of Jess & mark we can use logical operators.
+
+var jessOlder = ageJess > ageMark;
+console.log(jessOlder); // will show false since Mark is older.
