@@ -27,11 +27,10 @@ in centimeters, divide by 100 to convert this to meters. */
 
 var BMIMark = marksWeight / (marksHeight * marksHeight);
 var BMIJohn = johnWeight / (johnHeight * johnHeight);
-console.log(BMIMark, BMIJohn);
+console.log('Mark\'s BMI is: ' + BMIMark + ' and John\'s BMI is: ' +  BMIJohn);
 
 //** 3. Create a boolean variable containing information about whether Mark has a higher BMI than John.*/
 var markHigherBMI = BMIMark > BMIJohn;
 
 //4. Print a string to the console containing the variable from step 3. (Something like "Is Mark's BMI higher than John's? true").
-
 console.log('Is Mark\'s BMI higher than John\'s ? ' + markHigherBMI );
