@@ -2,7 +2,7 @@
 
 This repo contains starter files and the finished project files for all the projects contained in the course. FYI The Course is by [@jonasschmedtman](https://github.com/jonasschmedtmann)
 
-Plus, I made all the [course slides available for download](slides-students-C03.pdf), to make it easier to follow along the conceptual videos.
+Plus, he made all the [course slides available for download](slides-students-C03.pdf), to make it easier to follow along the conceptual videos.
 
 👇 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the course_** 👇
 
